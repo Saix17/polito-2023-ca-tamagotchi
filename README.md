@@ -6,7 +6,9 @@ a virtual pet (hunger and happiness)!
 
 Our pet is Kurama ( Of course everyone knows Kurama.. Right?! :D )
 
-The main function is contained in sample.c. It performs some initializations  functions and then it waits for commands.
+# Project Structure
+
+The main function is contained in the sample.c file. It performs some initialization functions and waits for new commands.
 
 the init_screen(void) function inserts the some visuals components into the screen:
 - Age
