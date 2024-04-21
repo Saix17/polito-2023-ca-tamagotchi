@@ -2,7 +2,7 @@ Hi! This is a project developed at Politecnico di Torino for the Computer Archit
 
 The main function is contained in sample.c. It performs some initializations  functions and then it waits for commands.
 
-init_screen(void): It inserts the some visuals components into the screen:
+the init_screen(void) function inserts the some visuals components into the screen:
 - Age
 - Happiness
 - Satiety
