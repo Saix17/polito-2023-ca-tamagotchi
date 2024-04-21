@@ -10,3 +10,5 @@ the init_screen(void) function inserts the some visuals components into the scre
 - Commands (Meal & Snack)
 
 ![Kurama](https://github.com/Saix17/polito-2023-ca-tamagotchi/assets/32308426/75db73e6-66cb-4027-9132-d7fd3ee8499c)
+
+Then, also timers, RIT and joystick were initialized.
