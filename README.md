@@ -2,7 +2,9 @@ Hi! This is a project developed at Politecnico di Torino for the Computer Archit
 
 # Description
 Tamagotchi is a famous toy from the end of the ’90s and the beginning of the new millennium. The goal of the game was to take care of
-a virtual pet (hunger and happiness)!
+a virtual pet (hunger and happiness)! 
+
+Our pet is Kurama ( Of course everyone knows Kurama.. Right?! :D )
 
 The main function is contained in sample.c. It performs some initializations  functions and then it waits for commands.
 
