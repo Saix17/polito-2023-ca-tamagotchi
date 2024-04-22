@@ -22,3 +22,5 @@ the init_screen(void) function inserts the some visuals components into the scre
 Then, also timers, RIT and joystick were initialized!
 
 Timers have different priorities to assure a correct a time estimation. Or... our pet could live a little longer due delays caused by other tasks, but of course we don't want it to happen (?) 
+
+WIP
